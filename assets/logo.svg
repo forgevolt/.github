@@ -1,0 +1,26 @@
+<svg width="680" height="560" viewBox="0 0 680 560" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>ForgeVolt logo</title>
+<desc>Brand mark for ForgeVolt: a dark hexagon badge with an amber forge bolt and a cyan volt accent, with wordmark lockup and color palette.</desc>
+
+<polygon points="340,60 418,105 418,195 340,240 262,195 262,105" fill="#14161c"/>
+<path d="M355,80 L300,165 L330,165 L315,225 L385,140 L350,140 Z" fill="#f2a544"/>
+<circle cx="315" cy="225" r="7" fill="#0ea5e9"/>
+
+<polygon points="110,305 140.3,322.5 140.3,357.5 110,375 79.7,357.5 79.7,322.5" fill="#14161c"/>
+<path d="M124,315 L100,342 L112,342 L104,368 L136,335 L118,335 Z" fill="#f2a544"/>
+<circle cx="104" cy="368" r="3" fill="#0ea5e9"/>
+<text x="165" y="352" font-size="48" font-weight="600" fill="#1f2430" font-family="Arial, Helvetica, sans-serif">Forge<tspan fill="#0ea5e9">Volt</tspan></text>
+
+<rect x="40" y="440" width="130" height="50" rx="6" fill="#14161c"/>
+<text x="105" y="512" font-size="12" fill="#1f2430" text-anchor="middle" font-family="monospace">#14161c</text>
+
+<rect x="190" y="440" width="130" height="50" rx="6" fill="#f2a544"/>
+<text x="255" y="512" font-size="12" fill="#1f2430" text-anchor="middle" font-family="monospace">#f2a544</text>
+
+<rect x="340" y="440" width="130" height="50" rx="6" fill="#0ea5e9"/>
+<text x="405" y="512" font-size="12" fill="#1f2430" text-anchor="middle" font-family="monospace">#0ea5e9</text>
+
+<rect x="490" y="440" width="130" height="50" rx="6" fill="#f5f6f8" stroke="#d0d3d9" stroke-width="1"/>
+<text x="555" y="512" font-size="12" fill="#1f2430" text-anchor="middle" font-family="monospace">#f5f6f8</text>
+
+</svg>

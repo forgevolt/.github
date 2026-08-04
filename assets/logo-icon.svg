@@ -1,0 +1,9 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>ForgeVolt icon</title>
+<desc>Square icon-only version of the ForgeVolt mark for profile pictures and avatars.</desc>
+
+<polygon points="100,30 160.6,65 160.6,135 100,170 39.4,135 39.4,65" fill="#14161c"/>
+<path d="M111.7,45.5 L68.9,111.7 L92.2,111.7 L80.6,158.3 L135,92.2 L107.8,92.2 Z" fill="#f2a544"/>
+<circle cx="80.6" cy="158.3" r="5" fill="#0ea5e9"/>
+
+</svg>
