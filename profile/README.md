@@ -19,11 +19,6 @@ Hobbyist electronics builder — consoles, gadgets, and robots, from schematic t
 
 Small electronic devices where hardware, mechanical design, and firmware come together as a single project — schematic, enclosure, and code, all open-sourced.
 
-- 🕹️ Handheld game consoles
-- 🔧 Practical gadgets and tools
-- 🏓 1D Pong — a one-dimensional twist on the classic
-- 🕷️ Hexapod robot + custom remote control
-
 ### Tech stack
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
