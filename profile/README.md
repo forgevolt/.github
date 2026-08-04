@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo-icon.svg" width="90" alt="ForgeVolt logo" />
+<img src="../assets/logo-icon.svg" width="90" alt="ForgeVolt logo" />
 
 # ForgeVolt
 
