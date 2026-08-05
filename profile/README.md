@@ -4,9 +4,7 @@
 
 # ForgeVolt
 
-**Where hardware, mechanical design, and firmware come together**
-
-Hobbyist electronics builder — consoles, gadgets, and robots, from schematic to enclosure to firmware.
+**Where hardware, mechanical design, and firmware come together.**
 
 [![YouTube](https://img.shields.io/badge/YouTube-@ForgeVolt-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@forgevolt)
 [![GitHub](https://img.shields.io/badge/GitHub-ForgeVolt-181717?style=flat&logo=github&logoColor=white)](https://github.com/forgevolt)
@@ -43,5 +41,5 @@ New projects and short build clips go up on [YouTube](https://youtube.com/@forge
 ---
 
 <div align="center">
-<sub>Build. Test. Improve. Share.</sub>
+**Build. Test. Improve. Share.**
 </div>
