@@ -33,20 +33,12 @@ Small electronic devices where hardware, mechanical design, and firmware come to
 
 | Project | Description | Repo |
 |---|---|---|
-| ESPNowConnection | Paired, single-peer ESP-NOW links between two ESP32 boards | [https://github.com/forgevolt/ESPNowUtilities](#) |
-| SoundEngine | Play short WAV sound effects on an ESP32 through an I2S DAC | [https://github.com/forgevolt/SoundEngine](#) |
+| ESPNowConnection | Paired, single-peer ESP-NOW links between two ESP32 boards | [link](https://github.com/forgevolt/ESPNowUtilities) |
+| SoundEngine | Play short WAV sound effects on an ESP32 through an I2S DAC | [link](https://github.com/forgevolt/SoundEngine) |
 
 ### Follow the build
 
 New projects and short build clips go up on [YouTube](https://youtube.com/@forgevolt) — from first sketch to first working prototype. Full project files (schematics, enclosures, firmware) land here on GitHub.
-
-### License
-
-Each repository states its own license. As a rule of thumb:
-
-- **Firmware / software** → MIT or GPLv3
-- **Hardware (schematics, PCB layout)** → CERN-OHL-S or CERN-OHL-P
-- **Mechanical parts (3D models, enclosures)** → CC-BY-SA
 
 ---
 
