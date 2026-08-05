@@ -17,13 +17,12 @@ Small electronic devices where hardware, mechanical design, and firmware come to
 
 ### Tech stack
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![KiCad](https://img.shields.io/badge/-KiCad-314CB0?style=flat&logo=kicad&logoColor=white)
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-000000?style=flat&logo=autodesk&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-0087D7?style=flat&logo=easyeda&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/-3D%20Printing-FF6F00?style=flat&logo=cults3d&logoColor=white)
-
-*(Adjust the badges above to match the tools you actually use — this is a starting set.)*
 
 ### Featured projects
 
