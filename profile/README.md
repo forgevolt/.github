@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="../assets/logo-icon.svg" width="90" alt="ForgeVolt logo" />
-
 # ForgeVolt
 
 **Where hardware, mechanical design, and firmware come together.**
@@ -41,5 +39,7 @@ New projects and short build clips go up on [YouTube](https://youtube.com/@forge
 ---
 
 <div align="center">
+  
 **Build. Test. Improve. Share.**
+
 </div>
