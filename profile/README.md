@@ -33,9 +33,8 @@ Small electronic devices where hardware, mechanical design, and firmware come to
 
 | Project | Description | Repo |
 |---|---|---|
-| Hexapod robot | 6-legged walking robot with custom remote control | [link](#) |
-| 1D Pong | Pong reimagined on a single row of LEDs | [link](#) |
-| Handheld console | Custom-built pocket game console | [link](#) |
+| ESPNowConnection | Paired, single-peer ESP-NOW links between two ESP32 boards | [https://github.com/forgevolt/ESPNowUtilities](#) |
+| SoundEngine | Play short WAV sound effects on an ESP32 through an I2S DAC | [https://github.com/forgevolt/SoundEngine](#) |
 
 ### Follow the build
 
