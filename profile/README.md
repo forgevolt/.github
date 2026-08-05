@@ -26,10 +26,12 @@ Small electronic devices where hardware, mechanical design, and firmware come to
 
 ### Featured projects
 
-| Project | Description | Repo |
-|---|---|---|
-| ESPNowConnection | Paired, single-peer ESP-NOW links between two ESP32 boards | [link](https://github.com/forgevolt/ESPNowUtilities) |
-| SoundEngine | Play short WAV sound effects on an ESP32 through an I2S DAC | [link](https://github.com/forgevolt/SoundEngine) |
+| Project | Description | Type | Repo |
+|---|---|---|---|
+| Hexapod | A six-legged walking robot | Robot | [not published](https://github.com/forgevolt/Hexapod) |
+| Transmitter | A general-purpose ESP32 remote control for small robots | Hardware | [not published](https://github.com/forgevolt/Transmitter) |
+| ESPNowConnection | Paired, single-peer ESP-NOW links between two ESP32 boards | Arduino Library | [link](https://github.com/forgevolt/ESPNowUtilities) |
+| SoundEngine | Play short WAV sound effects on an ESP32 through an I2S DAC | Arduino Library | [link](https://github.com/forgevolt/SoundEngine) |
 
 ### Follow the build
 
