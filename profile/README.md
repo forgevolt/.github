@@ -4,7 +4,7 @@
 
 # ForgeVolt
 
-**Where mechanics meets electronics.**
+**Where hardware, mechanical design, and firmware come together**
 
 Hobbyist electronics builder — consoles, gadgets, and robots, from schematic to enclosure to firmware.
 
@@ -38,10 +38,10 @@ Small electronic devices where hardware, mechanical design, and firmware come to
 
 ### Follow the build
 
-New projects and short build clips go up on [YouTube](https://youtube.com/@forgevolt) — from first sketch to first working prototype. Full project files (schematics, enclosures, firmware) land here on GitHub.
+New projects and short build clips go up on [YouTube](https://youtube.com/@forgevolt). Full project files (schematics, enclosures, firmware) land here on GitHub.
 
 ---
 
 <div align="center">
-<sub>Built one solder joint at a time.</sub>
+<sub>Build. Test. Improve. Share.</sub>
 </div>
