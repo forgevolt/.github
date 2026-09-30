@@ -30,6 +30,7 @@ Small electronic devices where hardware, mechanical design, and firmware come to
 |---|---|---|---|
 | Hexapod | A six-legged walking robot | Robot | [link](https://github.com/forgevolt/Hexapod) |
 | Transmitter | A general-purpose ESP32 remote control for small robots | Hardware | [link](https://github.com/forgevolt/Transmitter) |
+| VectorArcade | Lunar Lander and Asteroids on two ESP32 handheld consoles | Game Console | [link](https://github.com/forgevolt/VectorArcade) |
 | ESPNowConnection | Paired, single-peer ESP-NOW links between two ESP32 boards | Arduino Library | [link](https://github.com/forgevolt/ESPNowUtilities) |
 | SoundEngine | Play short WAV sound effects on an ESP32 through an I2S DAC | Arduino Library | [link](https://github.com/forgevolt/SoundEngine) |
 
