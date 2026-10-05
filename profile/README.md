@@ -33,6 +33,7 @@ Small electronic devices where hardware, mechanical design, and firmware come to
 | VectorArcade | Lunar Lander and Asteroids on two ESP32 handheld consoles | Game Console | [link](https://github.com/forgevolt/VectorArcade) |
 | ESPNowConnection | Paired, single-peer ESP-NOW links between two ESP32 boards | Arduino Library | [link](https://github.com/forgevolt/ESPNowUtilities) |
 | SoundEngine | Play short WAV sound effects on an ESP32 through an I2S DAC | Arduino Library | [link](https://github.com/forgevolt/SoundEngine) |
+| VectorUtilities | 2D and 3D vectors and smooth motion curves for robots, games and animation. | Arduino Library | [link](https://github.com/forgevolt/VectorUtilities) |
 
 ### Follow the build
 
