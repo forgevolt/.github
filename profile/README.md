@@ -34,6 +34,7 @@ Small electronic devices where hardware, mechanical design, and firmware come to
 | ESPNowConnection | Paired, single-peer ESP-NOW links between two ESP32 boards | Arduino Library | [link](https://github.com/forgevolt/ESPNowUtilities) |
 | SoundEngine | Play short WAV sound effects on an ESP32 through an I2S DAC | Arduino Library | [link](https://github.com/forgevolt/SoundEngine) |
 | VectorUtilities | 2D and 3D vectors and smooth motion curves for robots, games and animation. | Arduino Library | [link](https://github.com/forgevolt/VectorUtilities) |
+| JoystickUtilities | Read, calibrate and store analog thumb sticks, with direction keys for menus. | Arduino Library | [link](https://github.com/forgevolt/JoystickUtilities) |
 
 ### Follow the build
 
